@@ -1,0 +1,19 @@
+{
+  "window.titleBarStyle": "custom",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.fontFamily": "Fira Code, monospace, monospace",
+  "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum', 'cv02', 'cv31', 'ss10'",
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "editor.fontSize": 18,
+  "editor.lineHeight": 25,
+  "window.zoomLevel": 0,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.activityBar.location": "top",
+  "typescript.suggest.paths": false,
+  "javascript.suggest.paths": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.cursorSmoothCaretAnimation": "on"
+}
