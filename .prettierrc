@@ -1,5 +1,11 @@
 {
   "semi": false,
   "singleQuote": true,
-  "jsxSingleQuote": true
+  "jsxSingleQuote": true,
+  "max-line-length": [
+    true,
+    {
+      "limit": 140
+    }
+  ]
 }
